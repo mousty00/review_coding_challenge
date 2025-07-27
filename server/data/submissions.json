@@ -1,0 +1,34 @@
+{
+    "submissions": [
+        {
+            "timestamp": "2025-07-16T10:30:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "feedback": "Food was cold and service was slow",
+            "category": "Food Quality",
+            "customer_name": "John D.",
+            "email": "john@email.com",
+            "phone": ""
+        },
+        {
+            "timestamp": "2025-07-27T22:21:02.449678+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "feedback": "asdawdasadwad sdawda asda",
+            "category": "service",
+            "customer_name": "asdawd",
+            "email": "",
+            "phone": ""
+        },
+        {
+            "timestamp": "2025-07-27T22:22:19.407459+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "feedback": "asdawda asdwada adwad",
+            "category": "food_quality",
+            "customer_name": "moustapha",
+            "email": "",
+            "phone": ""
+        }
+    ]
+}

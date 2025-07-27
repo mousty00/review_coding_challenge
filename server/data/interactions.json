@@ -1,0 +1,304 @@
+{
+    "interactions": [
+        {
+            "timestamp": "2025-07-16T10:30:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 5,
+            "action": "redirected_to_gmb"
+        },
+        {
+            "timestamp": "2025-07-26T17:37:06.028597+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 3,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-26T17:37:19.545799+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 3,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-26T18:53:43.682462+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 3,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-26T18:54:38.724829+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-26T18:58:19.554884+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 4,
+            "action": "redirected_to_gmb"
+        },
+        {
+            "timestamp": "2025-07-26T18:58:25.361745+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T12:45:55.502853+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 4,
+            "action": "redirected_to_gmb"
+        },
+        {
+            "timestamp": "2025-07-27T12:46:20.090973+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T14:31:50.315389+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T17:04:46.609431+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 5,
+            "action": "redirected_to_gmb"
+        },
+        {
+            "timestamp": "2025-07-27T21:15:24.551673+00:00Z",
+            "business_id": "garage-123",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:15:32.756647+00:00Z",
+            "business_id": "garage-123",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:15:35.358044+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:17:15.944309+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:17:51.185315+00:00Z",
+            "business_id": "garage-123",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:18:14.573056+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:19:10.225759+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:19:12.120592+00:00Z",
+            "business_id": "garage-123",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:20:48.202649+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:25:16.240771+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:39:02.223808+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:41:02.155584+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:41:48.012806+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:42:23.694237+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:44:34.831218+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:44:51.079961+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:47:17.367767+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:48:53.169378+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:48:55.901840+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:48:58.663209+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:49:47.221679+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:51:36.868387+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:53:16.387563+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:54:13.593238+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:56:14.395430+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T21:59:53.653665+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:01:45.748486+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:03:31.508184+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:09:30.373696+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:10:37.224952+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:15:01.628435+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:15:45.863723+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:17:03.044157+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:17:11.318992+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:17:15.462982+00:00Z",
+            "business_id": "restaurant-abc",
+            "rating": 3,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:17:35.719413+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:19:40.440231+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:22:03.365507+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        },
+        {
+            "timestamp": "2025-07-27T22:26:37.741640+00:00Z",
+            "business_id": "salon-xyz",
+            "rating": 2,
+            "action": "no_action"
+        }
+    ]
+}
