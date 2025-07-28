@@ -181,7 +181,7 @@ const FeedbackForm = ({ business_id, rating }) => {
     };
 
     const handleGoHome = () => {
-        navigate("/review");
+        window.location.reload();
     };
 
     if (success) {

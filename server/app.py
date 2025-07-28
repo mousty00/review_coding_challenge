@@ -3,7 +3,7 @@ from typing import List
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-from server.utils.data_file import DataFiles
+from utils.data_file import DataFiles
 from utils.file_handler import load_json_by_key,load_json,save_json
 
 app = Flask(__name__)

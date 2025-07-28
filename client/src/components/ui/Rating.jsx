@@ -25,12 +25,10 @@ export default function Rating({item, rating, setRating}) {
                     timer: 2000,
                     showConfirmButton: false,
                     timerProgressBar: true,
-                });
+                })
 
-                // Update the rating state to show the selection
-                if (setRating) {
-                    setRating(ratingValue);
-                }
+                window.location.href = item.gmb_url
+
             } else if (ratingValue <= 3) {
                 if (setRating) {
                     setRating(ratingValue);
