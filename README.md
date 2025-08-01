@@ -1,3 +1,7 @@
+# Review Coding Challenge
+
+a smart review routing system that directs happy customers to Google My Business while capturing detailed feedback from unsatisfied customers. This challenge tests your frontend development, basic backend skills, and problem solving abilities.
+
 # 🧩 Full-Stack Web Application (React + Flask)
 
 This is a full-stack web application consisting of:
